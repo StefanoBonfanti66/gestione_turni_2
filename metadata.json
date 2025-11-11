@@ -1,0 +1,5 @@
+{
+  "name": "Shift Scheduler Pro",
+  "description": "A modern, responsive web application for managing work shifts in a manufacturing company. It features an interactive calendar, drag-and-drop shift assignment, master data management for workers and machines, a summary dashboard, leave request management, and a notification system.",
+  "requestFramePermissions": []
+}
